@@ -1,0 +1,7 @@
+# Core dependencies
+customtkinter==6.0.0
+requests==2.34.2
+
+# Optional — required only for file import (.pdf, .docx)
+pypdf==7.1.1
+python-docx==1.2.0
